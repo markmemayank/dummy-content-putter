@@ -3,7 +3,7 @@ Plugin Name: Dummy Content Plugin
 Plugin URI: https://example.com/dummy-content-plugin
 Description: A plugin to easily insert dummy content into your website.
 Version: 1.0
-Author: Your Name
+Author: Mayank Kumar
 Author URI: https://example.com
 License: GPL2
 */
